@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color:rgb(88, 88, 146);
+    text-decoration: cornflowerblue;
+}
+
+img{
+    display: block;
+    box-shadow: 10px 10px 5px black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    font-size:large;
+    color:gray;
+    text-align: center;
+}
+
+ul{
+    border-style:dotted;
+    color:gray;
+    font-style:italic;
+    text-align: center;
+}
+
+table{
+    color:black;  
+}
